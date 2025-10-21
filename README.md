@@ -78,28 +78,8 @@ int main() {
 
 OUTPUT:
 
-Enter details of Student 1
-Enter Register Number: 101
-Enter mark for subject 1: 80
-Enter mark for subject 2: 90
-Enter mark for subject 3: 85
 
-Enter details of Student 2
-Enter Register Number: 102
-Enter mark for subject 1: 75
-Enter mark for subject 2: 70
-Enter mark for subject 3: 80
-
-... (similarly for 3 more students)
-
---------------------------------------------
-RegNo   Sub1    Sub2    Sub3    Total   Average
---------------------------------------------
-101     80.0    90.0    85.0    255.0   85.00
-102     75.0    70.0    80.0    225.0   75.00
-103     60.0    65.0    70.0    195.0   65.00
-104     90.0    95.0    85.0    270.0   90.00
-105     50.0    55.0    60.0    165.0   55.00
+<img width="392" height="639" alt="Screenshot 2025-10-21 at 9 06 01 AM" src="https://github.com/user-attachments/assets/06557317-3520-4c20-906f-16ab2bd3ffa5" />
 
 
 RESULT:
