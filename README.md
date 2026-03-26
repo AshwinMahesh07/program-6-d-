@@ -2,11 +2,9 @@
 C module 6
 EXP.No:6-d-Total and average of marks using structure.
 
-Date:19/10/2025
-
-Name: VASANTH S
-
-Ref no: 25017538
+Date:26/03/2026
+Name: Ashwin Kumar .M
+Ref no: 25009408
 
 AIM:
 Create a structure program to read(rego,3 subject markss) and store the details of 5 students and calculate the Total and Average
